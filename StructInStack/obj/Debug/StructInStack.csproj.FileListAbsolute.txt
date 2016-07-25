@@ -1,0 +1,6 @@
+C:\Div\Origin\76-Struct_inStack\StructInStack\bin\Debug\StructInStack.exe.config
+C:\Div\Origin\76-Struct_inStack\StructInStack\bin\Debug\StructInStack.exe
+C:\Div\Origin\76-Struct_inStack\StructInStack\bin\Debug\StructInStack.pdb
+C:\Div\Origin\76-Struct_inStack\StructInStack\obj\Debug\StructInStack.csprojResolveAssemblyReference.cache
+C:\Div\Origin\76-Struct_inStack\StructInStack\obj\Debug\StructInStack.exe
+C:\Div\Origin\76-Struct_inStack\StructInStack\obj\Debug\StructInStack.pdb
